@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeVault", "CakeVault.csproj", "{20EB86F3-A816-45D8-B3DF-584D93273825}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake-Vault-API", "Cake-Vault-API.csproj", "{20EB86F3-A816-45D8-B3DF-584D93273825}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
