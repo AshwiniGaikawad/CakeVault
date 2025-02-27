@@ -1,0 +1,6 @@
+@CakeVault_HostAddress = http://localhost:5042
+
+GET {{CakeVault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
